@@ -18,23 +18,7 @@ I am a girl who really likes programming, when she grows up she wants to be a so
       <br><strong>TypeScript</strong>
     </td>
     
-    <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="48" height="48" alt="React" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a>
-      <br><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26a528f097ecb4f4b3987ad74cd3086870e930d85124c2a352dbde9e3cd14cb7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/26a528f097ecb4f4b3987ad74cd3086870e930d85124c2a352dbde9e3cd14cb7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" width="48" height="48" alt="Next.js" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="max-width: 100%;"></a>
-      <br><strong>Next.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667"><img src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" width="48" height="48" alt="Tailwind" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;"></a>
-      <br><strong>Tailwind</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/964a169bbc7417bcf2b1ee0ddd2122d9592a50dee693f9421428bdd11d32c18e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667"><img src="https://camo.githubusercontent.com/964a169bbc7417bcf2b1ee0ddd2122d9592a50dee693f9421428bdd11d32c18e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667" width="48" height="48" alt="Bootstrap" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;"></a>
-      <br><strong>Bootstrap</strong>
-    </td>
-  </tr>
+
   <tr>
     <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" width="48" height="48" alt="Node.js" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"></a>
