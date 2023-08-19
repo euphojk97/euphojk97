@@ -17,5 +17,6 @@ I am a girl who really likes programming, when she grows up she wants to be a so
 
 ---
 [![](https://visitcount.itsvg.in/api?id=euphojk.97&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ivannita&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
