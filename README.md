@@ -1,5 +1,5 @@
 # 🐇  About Me:
-I am a girl who really likes programming, when she grows up she wants to be a software engineer,<br>I am currently studying Pyton and Javascript, I really like web development, I am very passionate about listening to music<br>And coffee. I play the accordion since I was 4 years old🪗  👯 Aprendiz de Desarrollo WEB en Steam Academy<br><br>- ✨ If someone could do it, I can do it too and if nobody could, I'll be the first ✨ -
+I am a girl who really enjoys programming. I want to become a software engineer. Currently, I am studying Python and Javascript. I have a strong interest in web development. I am very passionate about listening to music and coffee. I have been playing the accordion 🪗 since I was 4 years old. 👯 Aprendiz de Desarrollo WEB en Steam Academy<br><br>- ✨ If someone could do it, I can do it too and if nobody could, I'll be the first ✨ -
 
 
 ## 🌐 Socials:
