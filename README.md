@@ -3,7 +3,7 @@ I am a girl who really enjoys programming. I want to become a software engineer.
 
 
 ## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@euphojk97) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@euphojk.97) 
 
 # 💻 Tech Stack:
 <table>
