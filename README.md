@@ -1,7 +1,8 @@
 # 🐇  About Me:
 I am a girl who really enjoys programming. I want to become a software engineer. Currently, I am studying Python and Javascript. I have a strong interest in web development. I am very passionate about listening to music and coffee. I have been playing the accordion 🪗 since I was 4 years old. 👯 Aprendiz de Desarrollo WEB en Steam Academy<br><br>- ✨ If someone could do it, I can do it too and if nobody could, I'll be the first ✨ -
 
- 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/euphojk.97) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@euphojk.97)
 
 # 💻 Tech Stack:
 <table>
@@ -101,3 +102,5 @@ I am a girl who really enjoys programming. I want to become a software engineer.
 [![](https://visitcount.itsvg.in/api?id=Ivannita&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
