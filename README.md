@@ -10,7 +10,7 @@ Soy una chica que le gusta realmente programar. Yo quiero aspirar a ser una Inge
       <br><strong>Discord</strong>
     </td>
     
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/euphojk.97) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@euphojk.97)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@euphojk.97)
 
 # 💻 Technology and Tools:
 <table>
