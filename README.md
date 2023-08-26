@@ -13,7 +13,7 @@ Soy una chica que le gusta realmente programar. Yo quiero aspirar a ser una Inge
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@euphojk.97)
 
 # 💻 Technology and Tools:
-<table>
+<table style="border-color:#bb8afe";>
   <tbody><tr>
     <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/46ac88a13cc39ca3d9b036704cd1f4d608248c582ae5427f59af62a19c47e4e7/68747470733a2f2f6c6f676f646f776e6c6f61642e6f72672f77702d636f6e74656e742f75706c6f6164732f323032322f30342f6a6176617363726970742d6c6f676f2d312e706e67"><img src="https://camo.githubusercontent.com/46ac88a13cc39ca3d9b036704cd1f4d608248c582ae5427f59af62a19c47e4e7/68747470733a2f2f6c6f676f646f776e6c6f61642e6f72672f77702d636f6e74656e742f75706c6f6164732f323032322f30342f6a6176617363726970742d6c6f676f2d312e706e67" width="48" height="48" alt="JavaScript" data-canonical-src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" style="max-width: 100%;"></a>
