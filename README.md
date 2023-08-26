@@ -9,6 +9,10 @@ Soy una chica que le gusta realmente programar. Yo quiero aspirar a ser una Inge
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://discord.gg/euphojk.97"><img src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" width="48" height="48" alt="Discord" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" style="max-width: 100%;"></a>
       <br><strong>Discord</strong>
     </td>
+<td align="center" height="108" width="108">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://tiktok.com/@euphojk.97"><img src="https://logowik.com/content/uploads/images/tiktok.jpg" width="48" height="48" alt="Discord" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" style="max-width: 100%;"></a>
+      <br><strong>TikTok</strong>
+    </td>
     
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/euphojk.97) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@euphojk.97)
 
