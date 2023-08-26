@@ -1,7 +1,7 @@
 # 🐇  About Me:
 I am a girl who really enjoys programming. I want to become a software engineer. Currently, I am studying Python and Javascript. I have a strong interest in web development. I am very passionate about listening to music and coffee. I have been playing the accordion 🪗 since I was 4 years old. 👯 Aprendiz de Desarrollo WEB en Steam Academy<br><br>- ✨ If someone could do it, I can do it too and if nobody could, I'll be the first ✨ -
 
-Soy una chica que le gusta realmente programar. Yo quiero aspirar a ser una Ingeniera de SoftWare. Ahora, estoy estudiando Python y JavaScript. Yo tengo un enorme interes en Desarrollo Web. Yo soy muy apasionada al escuchar musica y al tomar café. Yo toco el acordion 🪗 desde que tengo cuatro años. 👯 Soy Aprendiz de Desarrollo WEB en Steam Academy<br><br>- ✨ Si alguien puede hacerlo, Yo tambien puedo and if nobody could, I'll be the first ✨ -
+Soy una chica que le gusta realmente programar. Yo quiero aspirar a ser una Ingeniera de SoftWare. Ahora, estoy estudiando Python y JavaScript. Yo tengo un enorme interes en Desarrollo Web. Yo soy muy apasionada al escuchar musica y al tomar café. Yo toco el acordion 🪗 desde que tengo cuatro años. 👯 Soy Aprendiz de Desarrollo WEB en Steam Academy<br><br>- ✨ Si alguien puede hacerlo, Yo tambien puedo y si ninguno puede, Yo sere la Primera ✨ -
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/euphojk.97) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@euphojk.97)
